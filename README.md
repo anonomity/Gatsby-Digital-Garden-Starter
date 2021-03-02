@@ -1,11 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.kindpng.com/picc/303-3036269_transparent-background-plant-emoji-png-download-emoji-planta.png" width="60" />
+    <img alt="Gatsby" src="https://cdn.iconscout.com/icon/free/png-256/plant-299-450351.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Digital Garden Starter?
+  Gatsby Digital Garden Starter
 </h1>
 
 Would you like to start your very own Digital Garden? Or maybe you want a cool way to learn Gatsby? If either of those options sound appeasing to you then hop into the codebase and get started!
