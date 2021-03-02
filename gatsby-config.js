@@ -6,5 +6,19 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: "My Digital Garden🌱",
+    description: "Checkout my digital Garden!",
+  },
+  plugins: [
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/posts`,
+      },
+    },
+    `gatsby-transformer-remark`,
+    `gatsby-plugin-mdx`,
+  ],
 }
