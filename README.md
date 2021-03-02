@@ -1,16 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://www.kindpng.com/picc/303-3036269_transparent-background-plant-emoji-png-download-emoji-planta.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Gatsby Digital Garden Starter?
 </h1>
 
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+Would you like to start your very own Digital Garden? Or maybe you want a cool way to learn Gatsby? If either of those options sound appeasing to you then hop into the codebase and get started!
 
 ## 🚀 Quick start
 
