@@ -17,7 +17,7 @@ export const Posts = ({ data }) => {
             to={frontmatter.path}
             style={{ textDecoration: "none" }}
           >
-            <div>
+            <div style={{ border: "1px solid #ccc" }}>
               <p
                 style={{
                   fontWeight: "bold",

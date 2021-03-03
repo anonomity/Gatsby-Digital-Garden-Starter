@@ -1,11 +1,14 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 export const Home = ({ data }) => {
   const { title, description } = data.site.siteMetadata
   return (
     <div>
       <h1>{title}</h1>
       <p>{description}</p>
+      <Link to="/posts">
+        <h2>Go to Digital Garden</h2>
+      </Link>
     </div>
   )
 }
